@@ -59,13 +59,6 @@
 
 ---
 
-##  GitHub 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haish795-beep&show_icons=true&locale=kr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haish795-beep&layout=compact&locale=kr)
-
----
 
 ##  개발 철학
 
