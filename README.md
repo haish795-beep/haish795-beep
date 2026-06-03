@@ -1,32 +1,79 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!&animation=&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">  </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaish795-beep%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=haish795-beep&custom_title=haish795-beep's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haish795-beep&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<h1 align="center">안녕하세요! 하린입니다</h1>
+
+<p align="center">
+자동화 · 네트워크 · 백엔드 개발
+</p>
+
+---
+
+##  소개
+
+안녕하세요.
+
+자동화 시스템, 봇 개발, 네트워크 통신, 백엔드 구조 설계에 관심이 있습니다.
+
+새로운 기술을 배우고 실제 프로젝트에 적용하며 더 나은 구조와 성능을 만드는 것을 좋아합니다.
+
+---
+
+##  기술 스택
+
+### 언어
+- Python
+- JavaScript
+- Lua
+
+### 백엔드
+- FastAPI
+- Flask
+- Node.js
+
+### 데이터베이스
+- SQLite
+- MySQL
+
+### 도구
+- Git
+- GitHub
+- VS Code
+
+---
+
+##  관심 분야
+
+- 자동화 시스템
+- 봇 개발
+- 네트워크 프로그래밍
+- API 연동
+- 데이터 관리
+- 백엔드 개발
+
+---
+
+##  현재 공부 중
+
+- 비동기 프로그래밍
+- 서버 아키텍처
+- 데이터베이스 최적화
+- 네트워크 구조 분석
+
+---
+
+##  GitHub 통계
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haish795-beep&show_icons=true&locale=kr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haish795-beep&layout=compact&locale=kr)
+
+---
+
+##  개발 철학
+
+> 반복되는 작업은 자동화하고,
+> 복잡한 문제는 단순하게 해결한다.
+
+---
+
+##  연락
+
+GitHub Issues 또는 Discussions를 통해 연락해주세요.
