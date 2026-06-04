@@ -69,4 +69,4 @@
 
 ##  연락
 
-GitHub Issues 또는 haish795@daum.net를 통해 연락해주세요.
+GitHub Issues 또는 harin@codelabteam.com/Daum를 통해 연락해주세요.
