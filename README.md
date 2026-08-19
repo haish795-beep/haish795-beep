@@ -66,7 +66,3 @@
 > 복잡한 문제는 단순하게 해결한다.
 
 ---
-
-##  연락
-
-GitHub Issues 또는 harin@codelabteam.com/Daum를 통해 연락해주세요.
